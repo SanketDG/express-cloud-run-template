@@ -1,0 +1,14 @@
+{
+  "name": "express-cloud-run-template",
+  "version": "1.0.0",
+  "description": "Run express apps on GCP Cloud RUN",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanket Dasgupta",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
